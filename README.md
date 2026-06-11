@@ -8,13 +8,13 @@
 
 This repository serves as a lightweight public reference for the website:
 
-**[https://meine-domain](https://www.gruene-hage.de/)**
+**[https://www.gruene-hage.de](https://www.gruene-hage.de/)**
 
 The purpose of this repository is to provide a concise overview of the project and a publicly accessible location where interested visitors can find the website and a visual preview.
 
 ### Website
 
-[https://meine-domain](https://www.gruene-hage.de/)
+[https://www.gruene-hage.de](https://www.gruene-hage.de/)
 
 ### Screenshot
 
@@ -26,7 +26,7 @@ The primary content and ongoing development are hosted on the website itself. Th
 
 For the latest information, documentation, and updates, please visit:
 
-**[https://meine-domain](https://www.gruene-hage.de/)**
+**[https://www.gruene-hage.de](https://www.gruene-hage.de/)**
 
 ---
 
@@ -34,13 +34,13 @@ For the latest information, documentation, and updates, please visit:
 
 Dieses Repository dient als kompakte öffentliche Referenz für die Website:
 
-**[https://meine-domain](https://www.gruene-hage.de/)**
+**[https://www.gruene-hage.de](https://www.gruene-hage.de/)**
 
 Ziel dieses Repositories ist es, interessierten Besuchern einen kurzen Überblick über das Projekt sowie eine öffentlich zugängliche Verlinkung zur Website einschließlich einer visuellen Vorschau bereitzustellen.
 
 ### Website
 [
-https://meine-domain](https://www.gruene-hage.de/)
+https://www.gruene-hage.de](https://www.gruene-hage.de/)
 
 ### Screenshot
 
@@ -52,4 +52,4 @@ Die eigentlichen Inhalte sowie die laufende Weiterentwicklung finden direkt auf 
 
 Aktuelle Informationen, Dokumentation und Updates finden Sie unter:
 
-**[https://meine-domain](https://www.gruene-hage.de/)**
+**[https://www.gruene-hage.de](https://www.gruene-hage.de/)**
